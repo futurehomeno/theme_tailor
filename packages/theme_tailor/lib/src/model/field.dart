@@ -1,7 +1,7 @@
 class TailorField extends Field {
   TailorField({
     required super.name,
-    required super.type,
+    super.type = 'dynamic',
     required super.isThemeExtension,
     super.documentation,
     required this.isTailorThemeExtension,

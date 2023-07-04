@@ -4,8 +4,8 @@ import 'package:source_gen/source_gen.dart';
 
 import 'generator_annotation_matcher.dart';
 
-abstract class GeneratorForAnnotatedClass<TLibraryData, TAnnotationData, TData,
-    TAnnotation> extends GeneratorToBuffer<TAnnotation> {
+abstract class GeneratorForAnnotatedClass<TLibraryData, TAnnotationData, TData, TAnnotation>
+    extends GeneratorToBuffer<TAnnotation> {
   const GeneratorForAnnotatedClass();
 
   @override
