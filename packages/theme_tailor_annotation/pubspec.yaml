@@ -9,14 +9,14 @@ homepage: https://github.com/Iteo/theme_tailor
 documentation: https://github.com/Iteo/theme_tailor/blob/main/packages/theme_tailor/README.md
 
 environment:
-  sdk: 3.0.5
-  flutter: 3.10.5
+  sdk: ^3.2.0
+  flutter: 3.16.0
 
 dependencies:
-  collection: ^1.15.0
-  json_annotation: ^4.6.0
-  meta: ^1.7.0
+  collection: 1.18.0
+  json_annotation: 4.8.1
+  meta: 1.10.0
 
 dev_dependencies:
-  build_runner: ^2.2.0
-  json_serializable: ^6.3.2
+  build_runner: 2.4.6
+  json_serializable: 6.7.1
