@@ -15,8 +15,8 @@ dependencies:
   build_config: 1.1.1
   build: 2.4.1
   collection: 1.18.0
-  json_annotation: 4.9.0
-  meta: 1.10.0
+  json_annotation: 4.8.1
+  meta: 1.11.0
   source_gen_test: 1.0.6
   source_gen: 1.4.0
   source_helper: 1.3.4
