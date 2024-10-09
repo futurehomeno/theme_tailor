@@ -9,8 +9,8 @@ homepage: https://github.com/Iteo/theme_tailor
 documentation: https://github.com/Iteo/theme_tailor/blob/main/packages/theme_tailor/README.md
 
 environment:
-  sdk: ^3.2.0
-  flutter: 3.22.2
+  sdk: ^3.5.3
+  flutter: 3.24.3
 
 dependencies:
   collection: 1.18.0

@@ -7,8 +7,8 @@ version: 2.0.0
 publish_to: none
 
 environment:
-  sdk: ^3.2.0
-  flutter: 3.22.2
+  sdk: ^3.5.3
+  flutter: 3.24.3
 
 dependencies:
   analyzer: 6.2.0
