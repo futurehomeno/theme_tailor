@@ -13,7 +13,7 @@ environment:
   flutter: 3.32.7
 
 dependencies:
-  collection: 1.19.0
+  collection: 1.19.1
   json_annotation: 4.9.0
   meta: 1.16.0
 
